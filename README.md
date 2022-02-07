@@ -1,6 +1,6 @@
 # Indoor location determination using WSN RSSI and Computer Vision
 
-Here, a hybrid CNN-LSTM agent localization in an indoor environment model based on WSN nodes'RSSI is presented.
+Here, a hybrid CNN-LSTM agent localization in an indoor environment model based on WSN nodes' RSSI is presented.
 
 We use four anchor nodes as beacons and one is carried by the mobile agent.
 
